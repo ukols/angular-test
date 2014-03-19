@@ -1,0 +1,6 @@
+.search__fields{padding: 0 0 10px;}
+
+.ng-invalid.ng-dirty{border-color: red;}
+.require_field{color: red;}
+
+.btn_a_right{float: right;margin: -10px 0 0;}
